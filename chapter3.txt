@@ -1,1 +1,4 @@
-Levangard, Angard Standard - coding cleverly & calmly
+<<<<<<< HEAD
+Levangard, Angard Standard - coding cleverly & calmly, GoT books
+=======
+
